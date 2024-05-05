@@ -18,4 +18,4 @@ Press Alt+Y in game to activate and de-activate
 - Cost Per Post: **$15**
 - Total Posts Required to Level Store: **2250**
 - **Total Time Required: 56.2 minutes**
-- **Total Cash Required: $37500**
+- **Total Cash Required: $33750**
