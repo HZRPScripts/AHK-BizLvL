@@ -7,10 +7,10 @@ Quickly purchases cheap ads within an advertisement store within HZRP using SAMP
 - AHK - https://www.autohotkey.com/
 
 ### How-To
-Install AHK
-Download BizLvl.ahk and right click it -&gt; Run As Administrator
 
-Press Alt+Y in game to activate and de-activate
+1. Install AHK
+2. Download BizLvl.ahk and right click it -&gt; Run As Administrator
+3. Press Alt+Y in game to activate and de-activate
 
 ### Stats
 
