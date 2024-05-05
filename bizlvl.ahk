@@ -10,10 +10,10 @@ routine:
 while enable
 {	
 	SendInput t/buy{enter}
-	Sleep, 400
+	Sleep, 380
 	SendInput {Down}{Down}{enter}
-	Sleep, 400
+	Sleep, 380
 	SendInput ADS{enter}
-	Sleep, 400
+	Sleep, 380
 }
 return 
