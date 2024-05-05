@@ -13,8 +13,8 @@ Download BizLvl.ahk and right click it -> Run As Administrator
 Press Alt+Y in game to activate and de-activate
 
 ### Stats
-- Seconds Per Post: **1.14**
+- Seconds Per Post: **1.275**
 - Cost Per Post: **$15**
 - Total Posts Required to Level Store: **2500**
-- Total Time Required: **47.5**
+- Total Time Required: **53.1**
 - Total Cash Required: **$37500**
