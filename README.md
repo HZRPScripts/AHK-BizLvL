@@ -9,6 +9,7 @@ Quickly purchases cheap ads within an advertisement store within HZRP using SAMP
 
 ### How-To
 Download BizLvl.ahk and right click it -> Run As Administrator
+
 Press Alt+Y in game to activate and de-activate
 
 ### Stats
