@@ -5,7 +5,7 @@ Quickly purchases cheap ads within an advertisement store within HZRP using SAMP
 ### Requirements
 
 - SAMP
-- AHK
+- AHK - https://www.autohotkey.com/
 
 ### How-To
 Download BizLvl.ahk and right click it -> Run As Administrator
