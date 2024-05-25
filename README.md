@@ -1,4 +1,4 @@
-# AHK-BizLvL
+# AHK-AutoBizLvL
 Quickly purchases cheap ads within an advertisement store within HZRP using SAMP & AHK.
 
 ### Requirements
